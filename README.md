@@ -23,4 +23,8 @@ Bu bot Telegram üzerinden hatırlatmalar oluşturmanızı ve zamanı geldiğind
 - `/help` - Yardım menüsü
 - `/remind` - Yeni hatırlatma oluştur
 - `/list` - Hatırlatmaları listele
-- `/delete` - Hatırlatma sil 
+- `/delete` - Hatırlatma sil
+
+## Test
+
+Bot test edilmeye hazır! 
