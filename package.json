@@ -1,0 +1,23 @@
+{
+  "name": "telegram-reminder-bot",
+  "version": "1.0.0",
+  "description": "Telegram hatırlatma botu",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "mongodb": "^6.3.0",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.9.7",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "@vercel/node": "^3.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+} 
